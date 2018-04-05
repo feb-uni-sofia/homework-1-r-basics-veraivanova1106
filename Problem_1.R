@@ -1,3 +1,5 @@
+## NOTE: readability: leave some blank linkes between the code to make it more readable
+
 #a)  Create a vector with the numbers 4, 1, 1, 4 called x
 x<- c(4,1,1,4)
 #b)  Create a second vector called y with the numbers 1, 4
